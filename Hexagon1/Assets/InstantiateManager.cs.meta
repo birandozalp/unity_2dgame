@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 11b38b1f88ce776438564e5ff0795df1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - newHexa: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa1: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa2: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa3: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa4: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa5: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa6: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa7: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  - newHexa8: {fileID: 6102683668481575327, guid: 79053774463f1a04bb3cf20da7c957bb,
+      type: 3}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
